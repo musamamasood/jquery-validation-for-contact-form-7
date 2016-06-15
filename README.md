@@ -73,21 +73,21 @@ Yes, this plugin has been take care to handle multiple forms in a single page.
 
 ## Screenshots
 
-1. Contact Form With extra jquery validation in front end.
+1. Contact Form With extra jquery validation in front end.<br>
 ![Screen Shot 1](screenshot-1.png "Screen Shot 1")
-1. Setting and Instruction For Jquery Validation For Contact Form 7.
+1. Setting and Instruction For Jquery Validation For Contact Form 7.<br>
 ![Screen Shot 1](screenshot-2.png "Screen Shot 2")
-1. Change Error Message
+1. Change Error Message<br>
 ![Screen Shot 1](screenshot-3.png "Screen Shot 3")
-1. Validation Error Theme 1 (Lite Version)
+1. Validation Error Theme 1 (Lite Version)<br>
 ![Screen Shot 1](screenshot-4.png "Screen Shot 4")
-1. Validation Error Theme 2 (Only Available in Pro Version)
+1. Validation Error Theme 2 (Only Available in Pro Version)<br>
 ![Screen Shot 1](screenshot-5.png "Screen Shot 5")
-1. Validation Error Theme 3 (Only Available in Pro Version)
+1. Validation Error Theme 3 (Only Available in Pro Version)<br>
 ![Screen Shot 1](screenshot-6.png "Screen Shot 6")
-1. Validation Error Theme 4 (Only Available in Pro Version)
+1. Validation Error Theme 4 (Only Available in Pro Version)<br>
 ![Screen Shot 1](screenshot-7.png "Screen Shot 7")
-1. Validation Error None (Lite Version)
+1. Validation Error None (Lite Version)<br>
 ![Screen Shot 1](screenshot-8.png "Screen Shot 8")
 
 ## Changelog
